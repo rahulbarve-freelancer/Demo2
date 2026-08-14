@@ -2,3 +2,4 @@ This is the first test
 Thank you
 I am really enjoying Git
 Bye Bye
+Git is awesome
